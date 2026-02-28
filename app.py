@@ -25,8 +25,8 @@ class FreelanceTaskTracker(App):
         background: #222;
     }
     #main {
-        width: 60%;
-        margin: auto;
+           width: 60%;
+           margin: 2 20;
         padding: 2;
         border: solid #444;
         background: #333;
